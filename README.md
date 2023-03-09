@@ -16,7 +16,7 @@ Este es un ejercicio propuesto por la pagina https://www.frontendmentor.io/ , do
 
 ## Práctica 02 - Bootstrap :eye:[Live Preview][v2] 
 
-Este template responsivo que incluye un Login se realizó para un proyecto de una aplicacion web. Se utilizó componentes e iconos de Bootstrap y se personalizarón con CSS y Sass. Se añadieron alertas a la plantilla para esto se crearon las imagenes en CorelDRAW y se animaron con CSS.
+Este template responsivo que incluye un Login se realizó para un proyecto de una aplicacion web. Se utilizó componentes e iconos de Bootstrap y se personalizarón con CSS y Sass. Se añadieron alertas a la plantilla, para esto se crearon las imagenes en CorelDRAW y se animaron con CSS.
 
 - IDE: Visual Studio Code
 - HTML, CSS, Bootstrap, Sass, Google Fonts, CorelDRAW
